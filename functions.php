@@ -1,4 +1,5 @@
 <?php
+//echo 'hi'
 add_action('wp_enqueue_scripts', 'childhood_scripts');
 
 function childhood_scripts() {
