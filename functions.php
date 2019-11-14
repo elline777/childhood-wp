@@ -1,5 +1,5 @@
 <?php
-//echo 'hi,baby'
+//echo 'hi,baby, go'
 add_action('wp_enqueue_scripts', 'childhood_scripts');
 
 function childhood_scripts() {
